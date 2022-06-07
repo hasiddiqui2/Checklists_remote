@@ -70,6 +70,7 @@ class ChecklistViewController: UITableViewController {
         tableView.deselectRow(at: indexPath, animated: true)
 
     }
+//    chap 10
     
 }
 
